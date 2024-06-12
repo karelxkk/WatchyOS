@@ -3,7 +3,7 @@
 	url = https://github.com/LeonMatthes/arduino-esp32.git
 [submodule "src/components/BMA423-Sensor-API/git"]
 	path = src/components/BMA423-Sensor-API/git
-	url = https://github.com/Deadroad/BMA423-Sensor-API.git
+	url = https://github.com/karelxkk/BMA423-Sensor-API.git
 [submodule "src/components/esp-nimble-cpp"]
 	path = src/components/esp-nimble-cpp
 	url = https://github.com/h2zero/esp-nimble-cpp.git
